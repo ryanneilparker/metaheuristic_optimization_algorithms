@@ -6,10 +6,12 @@ This repository contains an assortment of optimization algorithms inspired by th
 Enjoy!
 
 ## INDEX
-[Ant Colony Optimization (ACO)](#ant_colony_optimization)
-[Flower Pollination Agorithm (FPA)](#flower_pollination_algorithm)
-[Particle Swarm Optimization (PSO)](#particle_swarm_optimization)
-[Firefly Algorithm (FA)](#firefly_algorithm)
+1. [Ant Colony Optimization (ACO)](#ant_colony_optimization)
+2. [Flower Pollination Agorithm (FPA)](#flower_pollination_algorithm)
+3. [Particle Swarm Optimization (PSO)](#particle_swarm_optimization)
+4. [Firefly Algorithm (FA)](#firefly_algorithm)
+5. [Bat Algorithm (BA)](#bat_alogithm)
+6. [Bee Colony Optimization (BCO)](#bee_colony_optimization)
 
 ## ant_colony_optimization
 coming soon...
